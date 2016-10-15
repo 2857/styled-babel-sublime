@@ -1,6 +1,6 @@
 {
-  "name": "React-sublime",
-  "tagline": "Syntax definitions for ES6 JavaScript with React JSX extensions. This fork contains syntax highlighting for styled-components for react.",
-  "body": "![react-sublime screenshot](http://i.imgur.com/a5ne4dn.png)",
+  "name": "react-sublime",
+  "tagline": "[pretty epic] syntax highlight for react + sublime text 3",
+  "body": "![react-sublime screenshot](http://i.imgur.com/a5ne4dn.png)\r\n\r\n## Styled Components!",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
